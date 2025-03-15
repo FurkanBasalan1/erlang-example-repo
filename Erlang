@@ -1,0 +1,4 @@
+-module(math_operations).
+-export([add/2]).
+
+add(A, B) -> A + B.
